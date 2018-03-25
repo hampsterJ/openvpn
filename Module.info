@@ -1,0 +1,10 @@
+{
+    "author": "hampsterj",
+    "description": "OpenVPN Connection Utility",
+    "devices": [
+        "nano",
+        "tetra"
+    ],
+    "title": "OpenVPNautoconnect",
+    "version": "0.1"
+}
