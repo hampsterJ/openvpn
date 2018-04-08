@@ -1,10 +1,10 @@
 {
     "author": "hampsterj",
-    "description": "OpenVPN Connection Utility",
+    "description": "OpenVPN Utility",
     "devices": [
         "nano",
         "tetra"
     ],
-    "title": "OpenVPNautoconnect",
+    "title": "My OpenVPN connect",
     "version": "0.1"
 }
